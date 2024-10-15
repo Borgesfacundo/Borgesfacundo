@@ -1,4 +1,4 @@
-<p align="center"><a href="https://borgesfacundo.github.io"><img width="80%" alt="Hello, I'm Facundo Borges!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://borgesfacundo.github.io"><img width="80%" alt="Hello, I'm Facundo Borges!" src="images/heading.png" /></a></p>
 
 <br />
 
