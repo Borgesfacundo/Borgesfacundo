@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Argentina 
+I'm a young passionate FrontEnd developer from Argentina :)
 
 **About me**
 
@@ -10,7 +10,7 @@ I'm a self-taught passionate FrontEnd developer from Argentina
 
 - 📈 Looking for new opportunities to grow and know more poeple in this field!
 
-- ❤️ I love writing JS, and building fun experiments on it.
+- ❤️ I love writing JS, and building fun projects on it.
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>  
